@@ -154,3 +154,4 @@ almost current UI screenshot
 |---|---|
 |![](example.png "24 steps, 3.9 CFG, t2i +1 iteration i2i")|![](example.png2 "20 steps, 5 CFG, no T5, other settings")|
 
+
